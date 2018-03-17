@@ -9,7 +9,7 @@ What methods help to deliver better software in effective way?
 
 ### Kanban
 
-+ Rachel Davies - Moving from Scrum to Kanban https://vimeo.com/43624438
++ Rachel Davies - Moving from Scrum to Kanban (https://vimeo.com/43624438)
 
 
 ### NoEstimates 
@@ -22,6 +22,8 @@ What methods help to deliver better software in effective way?
 
 ## Critics
 
-### Why do some developers at strong companies like Google consider Agile development to be nonsense? https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense#
+### Why do some developers at strong companies like Google consider Agile development to be nonsense? (https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense#)
 
-### The unexpected enemy - an Agile Coach introducing "Somegile" https://www.scrum.org/forum/scrum-forum/7277/part-iii-unexpected-enemy-agile-coach-introducing-somegile
+### The unexpected enemy - an Agile Coach introducing "Somegile" (https://www.scrum.org/forum/scrum-forum/7277/part-iii-unexpected-enemy-agile-coach-introducing-somegile)
+
+
