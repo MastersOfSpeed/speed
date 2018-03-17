@@ -26,4 +26,4 @@ What methods help to deliver better software in effective way?
 
 - [The unexpected enemy - an Agile Coach introducing "Somegile"](https://www.scrum.org/forum/scrum-forum/7277/part-iii-unexpected-enemy-agile-coach-introducing-somegile)
 
-
+- [Why is agile development so polarizing](https://www.quora.com/Why-is-agile-development-so-polarizing)
