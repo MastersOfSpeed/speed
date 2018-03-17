@@ -28,5 +28,5 @@ What methods help to deliver better software in effective way?
 
 - [Why is agile development so polarizing](https://www.quora.com/Why-is-agile-development-so-polarizing)
 
-- [Scrum is a religion](https://www.quora.com/What-are-the-weaknesses-in-Scrum-There-has-been-a-lot-of-discussion-about-the-problems-with-a-traditional-waterfall-software-engineering-methodology-but-very-little-discussion-about-the-problems-you-need-to-watch-out-for-when-implementing-Scrum)
+- [What are the weaknesses in Scrum? There has been a lot of discussion about the problems with a traditional, waterfall, software engineering methodology but very little discussion about the problems you need to watch out for when implementing Scrum.](https://www.quora.com/What-are-the-weaknesses-in-Scrum-There-has-been-a-lot-of-discussion-about-the-problems-with-a-traditional-waterfall-software-engineering-methodology-but-very-little-discussion-about-the-problems-you-need-to-watch-out-for-when-implementing-Scrum)
 
