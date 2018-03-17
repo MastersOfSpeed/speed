@@ -23,6 +23,7 @@ What methods help to deliver better software in effective way?
 
 - [What are the weaknesses in Scrum? There has been a lot of discussion about the problems with a traditional, waterfall, software engineering methodology but very little discussion about the problems you need to watch out for when implementing Scrum.](https://www.quora.com/What-are-the-weaknesses-in-Scrum-There-has-been-a-lot-of-discussion-about-the-problems-with-a-traditional-waterfall-software-engineering-methodology-but-very-little-discussion-about-the-problems-you-need-to-watch-out-for-when-implementing-Scrum)
 
+- [Why I'm not a big fan of Scrum](http://okigiveup.net/not-big-fan-of-scrum/)
 
 
 
