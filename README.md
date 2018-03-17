@@ -22,6 +22,6 @@ What methods help to deliver better software in effective way?
 
 ## Critics
 
-1. Why do some developers at strong companies like Google consider Agile development to be nonsense?
-https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense#
+### Why do some developers at strong companies like Google consider Agile development to be nonsense? https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense#
 
+### The unexpected enemy - an Agile Coach introducing "Somegile" https://www.scrum.org/forum/scrum-forum/7277/part-iii-unexpected-enemy-agile-coach-introducing-somegile
