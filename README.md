@@ -25,10 +25,5 @@ What methods help to deliver better software in effective way?
 
 - [Why I'm not a big fan of Scrum](http://okigiveup.net/not-big-fan-of-scrum/)
 
+- [Why Do So Many Programmers Hate Agile?](https://dzone.com/articles/why-do-so-many-programmers-hate-agile)
 
-
-## [Why Do So Many Programmers Hate Agile?](https://dzone.com/articles/why-do-so-many-programmers-hate-agile)
-
-"Scrum is a demeaning set of rituals that replace common sense, but allow managers to avoid responsibility while micromanaging."
-
-"The only developers who like Scrum are mediocre ones whom it gives a chance to feel as they are no less important then the guys who would do the job better if not for the constant meetings."
