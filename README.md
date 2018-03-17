@@ -27,3 +27,4 @@ What methods help to deliver better software in effective way?
 
 - [Why Do So Many Programmers Hate Agile?](https://dzone.com/articles/why-do-so-many-programmers-hate-agile)
 
+- [What Scrum Says About Estimates](https://www.scrum.org/resources/blog/what-scrum-says-about-estimates)
