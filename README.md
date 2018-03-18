@@ -25,3 +25,5 @@ What methods help to deliver better software in effective way?
 - [Poor Man’s Agile: Scrum in 5 Simple Steps](https://news.ycombinator.com/item?id=5406384)
 
 - [Agile Is Dead (2015)](https://news.ycombinator.com/item?id=16406180)
+
+- [Cargo Cult Scrum](https://medium.com/@mandrigin/cargo-cult-scrum-b34b91677347)
