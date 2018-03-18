@@ -21,13 +21,13 @@ One should be able to deliver a handful of 1’s in a day
 I know exactly what needs to be done, and it’s going to take me little time
 Example: add field to a form
 
-### 2 – QUICK TO DELIVER AND SOME COMPLEXITY; ON THE ORDER OF MULTIPLE HOURS/HALF-DAY+
+#### 2 – QUICK TO DELIVER AND SOME COMPLEXITY; ON THE ORDER OF MULTIPLE HOURS/HALF-DAY+
 
 One should be able to deliver one 2 comfortably in a day
 I mostly know what needs to be done, where improvements/changes need to be implemented, and it’s going to take me some time
 Example: Add parameter to form, validation, storage
 
-### 3 – MODERATE TIME TO DELIVER, MODERATE COMPLEXITY, AND POSSIBLY SOME UNCERTAINTY/UNKNOWNS
+#### 3 – MODERATE TIME TO DELIVER, MODERATE COMPLEXITY, AND POSSIBLY SOME UNCERTAINTY/UNKNOWNS
 
 On the order of about a day or more to deliver
 I have a good idea what needs to be done, and it’s going to take me a bit of time
