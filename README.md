@@ -23,3 +23,5 @@ What methods help to deliver better software in effective way?
 - [What Scrum Says About Estimates](https://www.scrum.org/resources/blog/what-scrum-says-about-estimates)
 
 - [Poor Man’s Agile: Scrum in 5 Simple Steps](https://news.ycombinator.com/item?id=5406384)
+
+- [Agile Is Dead (2015)](https://news.ycombinator.com/item?id=16406180)
