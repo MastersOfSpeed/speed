@@ -1,4 +1,4 @@
-# Masters of speed
+# Still agile?
 
 What methods help to deliver better software in effective way?
 
