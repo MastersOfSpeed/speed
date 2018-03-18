@@ -3,15 +3,8 @@
 What methods help to deliver better software in effective way?
 
 
-## Agile
 
-- Scrum 
-- Kanban
-- NoEstimates 
-
-
-
-## Criticism
+## Criticism of Scrum & misused Agile
 
 - [Rachel Davies - Moving from Scrum to Kanban](https://vimeo.com/43624438)
 
