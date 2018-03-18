@@ -27,3 +27,5 @@ What methods help to deliver better software in effective way?
 - [Agile Is Dead (2015)](https://news.ycombinator.com/item?id=16406180)
 
 - [Cargo Cult Scrum](https://medium.com/@mandrigin/cargo-cult-scrum-b34b91677347)
+
+- [Agile Bad Parts](https://www.infoq.com/presentations/agile-failure?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
