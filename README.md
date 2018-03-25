@@ -32,4 +32,8 @@ What methods help to deliver better software in effective way?
 
 - [Agile does NOT work ! Oleg Vishnepolsky](https://www.linkedin.com/pulse/agile-does-work-oleg-vishnepolsky/)
 
+- [Scrum Myth: Scrum projects are faster and cheaper. Scrum.Org](https://www.scrum.org/resources/blog/scrum-myth-scrum-projects-are-faster-and-cheaper)
+
 - [Why “Agile” and especially Scrum are terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
+
+- 
