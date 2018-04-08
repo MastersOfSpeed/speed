@@ -37,3 +37,5 @@ What methods help to deliver better software in effective way?
 - [Why “Agile” and especially Scrum are terrible](https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/)
 
 - [Scrum Myth: Scrum projects are faster and cheaper Scrum.org](https://www.scrum.org/resources/blog/scrum-myth-scrum-projects-are-faster-and-cheaper)
+
+- [14 Weird Observations About Agile Team Velocity](http://agileotter.blogspot.de/2012/09/14-weird-observations-about-agile-team.html)
