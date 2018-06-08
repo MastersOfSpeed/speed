@@ -39,3 +39,5 @@ What methods help to deliver better software in effective way?
 - [Scrum Myth: Scrum projects are faster and cheaper Scrum.org](https://www.scrum.org/resources/blog/scrum-myth-scrum-projects-are-faster-and-cheaper)
 
 - [14 Weird Observations About Agile Team Velocity](http://agileotter.blogspot.de/2012/09/14-weird-observations-about-agile-team.html)
+
+- [Understand why half of CIOs regard #agile development as “discredited” and 3/4 are no longer prepared to defend it](https://www.linkedin.com/pulse/understand-why-half-cios-regard-agile-development-discredited-kong/)
