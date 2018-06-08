@@ -42,4 +42,4 @@ What methods help to deliver better software in effective way?
 
 - [Understand why half of CIOs regard #agile development as “discredited” and 3/4 are no longer prepared to defend it](https://www.linkedin.com/pulse/understand-why-half-cios-regard-agile-development-discredited-kong/)
 
--[Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)
+- [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)
