@@ -43,3 +43,7 @@ What methods help to deliver better software in effective way?
 - [Understand why half of CIOs regard #agile development as “discredited” and 3/4 are no longer prepared to defend it](https://www.linkedin.com/pulse/understand-why-half-cios-regard-agile-development-discredited-kong/)
 
 - [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)
+
+- [How to transition from Agile to micromanagement](https://hackernoon.com/how-to-transition-from-agile-to-micromanagement-de9247c26e11)
+
+- [Scrum: The Best Micromanagement Tool Around](https://medium.com/@onleadership/scrum-the-best-micromanagement-tool-around-d190f6291b2f)
