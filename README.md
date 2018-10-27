@@ -47,3 +47,6 @@ What methods help to deliver better software in effective way?
 - [How to transition from Agile to micromanagement](https://hackernoon.com/how-to-transition-from-agile-to-micromanagement-de9247c26e11)
 
 - [Scrum: The Best Micromanagement Tool Around](https://medium.com/@onleadership/scrum-the-best-micromanagement-tool-around-d190f6291b2f)
+
+- [Scrum: Commitment](https://www.scrum.org/resources/blog/c-word-scrum-guide)
+
